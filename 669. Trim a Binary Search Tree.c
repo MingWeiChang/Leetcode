@@ -34,7 +34,9 @@ Output:
   /
  1
 */
-
+/*
+Runtime: 12 ms
+*/
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
